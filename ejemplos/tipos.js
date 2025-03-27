@@ -1,4 +1,5 @@
 // Diferencias de declaración
+console.log("1 - Declaración de variables");
 var nombre = "Carlos";  // Evitar usar var
 let edad = 28;
 const PI = 3.14;
@@ -10,10 +11,13 @@ console.log("PI ", PI);
 edad = 333;
 console.log("Edad: ", edad);
 
-PI = 1
+// Va a fallar! 
+// PI = 1 
+
 console.log("PI: ", PI);
 
 // Tipos primitivos
+console.log("2 - Tipos primitivos");
 let texto = "Hola mundo";
 let numero = 42;
 let esActivo = true;
@@ -33,19 +37,16 @@ if (esActivo) {
 }
 
 // Arrays
+console.log("3 - Arrays");
 let frutas = ["manzana", "banana", "uva"];
-
-for (let indice = 0; indice < frutas.length; indice++) {
-    console.log(frutas[indice]);
-}
-
-frutas.forEach(fruta => {
-    console.log(fruta);
-});
+console.log(frutas[1])
 
 // Objetos
+console.log("4 - Objetos");
 let persona = {
     nombre: "Lucía",
     edad: 32,
     activa: true
 };
+
+console.log(persona.edad)
