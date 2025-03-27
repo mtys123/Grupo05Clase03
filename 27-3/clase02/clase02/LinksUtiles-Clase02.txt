@@ -1,0 +1,61 @@
+VSC https://code.visualstudio.com/Download
+
+extension VSC live server buscar x id ritwickdey.liveserver
+
+		
+sitios HTML5:
+=============
+mdn
+https://developer.mozilla.org/es/docs/Web/HTML
+
+w3schools
+https://www.w3schools.com/html/
+
+https://html.com/
+
+
+
+Emmet Permite generar estructuras de código complejas a partir de abreviaturas simples
+		https://docs.emmet.io/cheat-sheet/
+		
+
+google antiguo
+https://web.archive.org/web/19981111183552/http://google.stanford.edu/
+
+
+sitios CSS3:
+mdn
+https://developer.mozilla.org/es/docs/Web/CSS
+
+w3schools
+https://www.w3schools.com/css/
+
+https://web.dev/css
+
+
+practicar css:
+https://flukeout.github.io/
+http://cssgridgarden.com
+https://flexboxfroggy.com/
+
+
+Selectores de colores
+https://htmlcolorcodes.com/es/
+https://www.w3schools.com/html/html_colors.asp
+
+
+Colores estandar soportados por todos los navegadores
+https://www.w3schools.com/colors/colors_names.asp
+
+
+Páginas para practicar Flex:
+https://codepen.io/enxaneta/full/adLPwv
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+http://flexboxfroggy.com/#es    
+
+
+Películas informática:
+El dilema de las redes sociales
+Lo and Behold Youtbe
+Mr robot
+Halt and Catch Fire	
