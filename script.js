@@ -7,3 +7,8 @@ boton.addEventListener("click", () => {
     contador++;
     span.innerText = contador;
 });
+
+function igual(){
+    const span = document.getElementById("resultado");
+    span.innerHTML="2"
+}
